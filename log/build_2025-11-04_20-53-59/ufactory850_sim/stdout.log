@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/ufactory850_sim/ufactory850_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/ufactory850_sim/ufactory850_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/ufactory850_sim/ufactory850_sim.egg-info/entry_points.txt
+writing requirements to ../../build/ufactory850_sim/ufactory850_sim.egg-info/requires.txt
+writing top-level names to ../../build/ufactory850_sim/ufactory850_sim.egg-info/top_level.txt
+reading manifest file '../../build/ufactory850_sim/ufactory850_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/ufactory850_sim/ufactory850_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/sajeeh/ufactory_ws/install/ufactory850_sim/share/ufactory850_sim/launch
+copying launch/ufactory_world.launch.py -> /home/sajeeh/ufactory_ws/install/ufactory850_sim/share/ufactory850_sim/launch
+creating /home/sajeeh/ufactory_ws/install/ufactory850_sim/share/ufactory850_sim/urdf
+copying urdf/ufactory850.urdf.xacro -> /home/sajeeh/ufactory_ws/install/ufactory850_sim/share/ufactory850_sim/urdf
+creating /home/sajeeh/ufactory_ws/install/ufactory850_sim/share/ufactory850_sim/worlds
+copying worlds/loop_channel.world -> /home/sajeeh/ufactory_ws/install/ufactory850_sim/share/ufactory850_sim/worlds
+running install_egg_info
+removing '/home/sajeeh/ufactory_ws/install/ufactory850_sim/lib/python3.10/site-packages/ufactory850_sim-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ufactory850_sim/ufactory850_sim.egg-info to /home/sajeeh/ufactory_ws/install/ufactory850_sim/lib/python3.10/site-packages/ufactory850_sim-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/sajeeh/ufactory_ws/build/ufactory850_sim/install.log'
